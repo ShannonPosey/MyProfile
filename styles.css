@@ -1,0 +1,150 @@
+
+body{
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+
+}
+
+h1
+{
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size: 90px;
+  line-height: 2;
+  margin: 50px auto 0 auto;
+  }
+
+.intro{
+  color: #66BFBF;
+  font-size: 2.5rem;
+  font-weight: normal;
+
+}
+
+.top-container{
+  background-color: #EAF6F6;
+  padding-top: 100px;
+  position: relative;
+}
+
+.middle-container{
+margin: 100px;
+}
+
+.Greetings-desc{
+  color: #40514E;
+  margin: auto;
+  width: 30%;
+}
+
+hr{
+  border-style: dotted none none;
+  border-color: #EAF6F6;
+  border-width: 10px;
+  margin: 100px auto 100px auto;
+  width: 5%;
+}
+
+a{
+  color: #11999E;
+  margin: 10px auto 20px auto;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #EAF6F6;
+}
+
+  h2{
+    color: #66BFBF;
+    font-weight: normal;
+    padding: 10px;
+  }
+
+  p {
+    line-height: 2;
+  }
+  .skill-row{
+    margin: 100px auto 100px auto;
+    width: 50%;
+    text-align: left;
+    }
+.light-img{
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+  }
+
+.lock-img{
+  float: right;
+  margin-left: 30px;
+  width: 25%;
+}
+
+h3{
+  color: #11999E;
+  }
+
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+  .btn {
+     -webkit-border-radius: 20px;
+     -moz-border-radius: 20px;
+     border-radius: 20px;
+     color: #FFFFFF;
+     font-family: Open Sans;
+     font-size: 28px;
+     font-weight: 100;
+     padding: 15px;
+     background-color: #66BFBF;
+     text-shadow: 1px 1px 20px #000000;
+     text-decoration: none;
+     display: inline-block;
+     cursor: pointer;
+     text-align: center;
+     margin-bottom: 50px;
+     margin-top: 50px;
+  }
+
+  .btn:hover {
+     border: solid #337FED 1px;
+     background: #1E62D0;
+     background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+     background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+     background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+     background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+     background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+     -webkit-border-radius: 20px;
+     -moz-border-radius: 20px;
+     border-radius: 20px;
+     text-decoration: none;
+  }
+
+.bottom-container {
+  background-color: #66BFBF;
+padding: 50px 0 20px;
+
+}
+.foot-link
+
+.copy-right{
+  color: #EAF6F6;
+  font-size: 0.75em;
+  padding: 20px 0;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud{
+  bottom: 300px;
+  left: 300px;
+  position: absolute;
+  }
